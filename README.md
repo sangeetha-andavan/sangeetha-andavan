@@ -29,14 +29,28 @@ Areas of work include:
 
 ## Technical Skills
 
-### Radio Astronomy
+### Radio Interferometry & Observational Radio Astronomy
 
-* Radio Interferometry
-* Visibility Analysis
-* Aperture Synthesis
-* Spectral Line Observations
+* Visibility measurements and analysis
+* FX correlation
+* Phase coherence analysis
+* Aperture synthesis
+* Multi-baseline interferometric observations
+* Spectral-line observations and data processing
+* Radio data calibration and interpretation
 
-### Programming
+### Radio Instrumentation & RF Systems
+
+* Antenna design and characterization
+* RF front-end development
+* VNA measurements (S-parameters)
+* Receiver characterization
+* Antenna testing in anechoic chambers
+* SDR backends: USRP and RTL-SDR
+* RFSoC ZCU216 platform
+* CASPER toolflow
+
+### Programming & Scientific Computing
 
 * Python
 * NumPy
@@ -44,15 +58,37 @@ Areas of work include:
 * Matplotlib
 * Astropy
 * Jupyter Notebooks
+* Scientific data analysis and visualsation
 
-### Instrumentation
+### Statistical & Data Analysis Methods
+
+* Bayesian inference
+* Markov Chain Monte Carlo (MCMC)
+* Model fitting
+* Astronomical data analysis
+
+### Radio Astronomy Software
 
 * GNU Radio
-* USRP
-* RTL-SDR
-* VNA Measurements
-* RF Characterization
-* Antenna Testing
+* CASA 
+* Spectral-line data processing
+* Interferometric data processing
+
+### Simulation & Engineering Tools
+
+* CST Studio Suite
+* Ansys HFSS
+* MATLAB
+* Simulink
+
+### Research Computing
+
+* Linux (Ubuntu)
+* Windows
+* Git
+* LaTeX
+* Scientific computing workflows
+
 
 ## Contact
 
