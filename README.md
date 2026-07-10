@@ -12,7 +12,6 @@ My research focuses on **radio astronomy instrumentation**, **radio interferomet
 - Radio Interferometry
 - Digital Signal Processing for Radio Astronomy
 - Neutral Hydrogen (HI) Observations
-- Diffuse Radio Emission in Galaxies and Galaxy Clusters
 - Square Kilometre Array (SKA) Science
 
 ---
