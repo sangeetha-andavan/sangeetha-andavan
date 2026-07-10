@@ -1,6 +1,8 @@
 # Sangeetha Andavan
 
-M.Sc. Astronomy student at IIT Indore with interests in radio astronomy, radio interferometry, astronomical instrumentation, and observational radio astronomy.
+Project Assistant in the Department of Astronomy, Astrophysics and Space Engineering at IIT Indore.
+
+My research focuses on radio astronomy instrumentation, radio interferometry, software-defined radio (SDR) systems, RFSoC-based digital backends, and astronomical signal processing.
 
 ## Research Interests
 
@@ -11,12 +13,12 @@ M.Sc. Astronomy student at IIT Indore with interests in radio astronomy, radio i
 * Diffuse Radio Emission in Galaxies and Galaxy Clusters
 * Square Kilometre Array (SKA) Science
 
-## Current Research
+## Current Projects
 
-### Design and Development of an Instructional Radio Interferometer
-
-Current M.Sc. thesis project focused on the design, development, and testing of a multi-element radio interferometer operating at 1.420 GHz.
-
+- Instructional Radio Interferometer
+- RFSoC ZCU216 Digital Backend Development
+- GNU Radio Signal Processing
+- Hydrogen Line (21-cm) Data Analysis
 Areas of work include:
 
 * RF front-end development
@@ -88,6 +90,14 @@ Areas of work include:
 * Git
 * LaTeX
 * Scientific computing workflows
+
+## Publications & Presentations
+
+- IEEE SPACE 2026
+  - RAISE: A Low-Frequency Space-Based Payload for Solar Radio and RFI Measurements on the SMiLE Mission (Accepted)
+
+- National Space Science Symposium (NSSS) 2026
+  - Poster Presentation: A Low-Cost Instructional Interferometer Using DIY Horn Antenna.
 
 
 ## Contact
