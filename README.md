@@ -1,141 +1,47 @@
-# Hi, I'm Sangeetha Andavan, 
+# Sangeetha Andavan
+### Radio Astronomy · Interferometry · Scientific Computing
 
-Project Assistant in the **Department of Astronomy, Astrophysics and Space Engineering (DAASE)** at the **Indian Institute of Technology Indore**.
+I am a Project Assistant in the Department of Astronomy, Astrophysics and Space Engineering (DAASE) at the Indian Institute of Technology Indore. My work spans radio astronomy instrumentation, interferometric observations, SDR-based signal processing, and Python tools for RF measurement and scientific data analysis.
 
-My research focuses on **radio astronomy instrumentation**, **radio interferometry**, **software-defined radio (SDR) systems**, **RFSoC-based digital backends**, and **digital signal processing for radio astronomy**. I am particularly interested in developing low-cost radio astronomical instruments and applying them to observations of **neutral hydrogen (HI)** and other radio sources.
-
----
-
-## Research Interests
-
-- Radio Astronomy Instrumentation
-- Radio Interferometry
-- Digital Signal Processing for Radio Astronomy
-- Neutral Hydrogen (HI) Observations
-- Square Kilometre Array (SKA) Science
-
----
-
-## Current Projects
-
-### Instructional Radio Interferometer
-Design and development of a scalable instructional radio interferometer operating at **1.420 GHz**.
-
-### RFSoC (ZCU216) Digital Backend Development
-Development of FPGA-based digital signal processing systems for radio astronomy instrumentation.
-
-### GNU Radio Signal Processing
-Development of FX correlators, synchronization pipelines, and SDR-based processing workflows.
-
-### Hydrogen Line (21-cm) Data Analysis
-Processing and analysis of spectral-line and interferometric observations.
-
-### Current Research Activities
-
-- RF front-end development
-- Horn antenna design and characterization
-- Visibility measurement and analysis
-- Interferometric observations
-- Signal processing and cross-correlation
-- Calibration and astronomical data analysis
-- Python and GNU Radio pipeline development
-
----
-
-## Technical Skills
-
-### Radio Astronomy & Interferometry
-
-- Radio interferometry
-- Visibility analysis
-- FX correlation
-- Phase coherence analysis
-- Aperture synthesis
-- Multi-baseline interferometric observations
-- Spectral-line observations
-- Calibration and astronomical data interpretation
-
-### Radio Instrumentation & RF Systems
-
-- Antenna design and characterization
-- RF front-end development
-- VNA measurements (S-parameters)
-- Receiver characterization
-- Antenna testing in anechoic chambers
-- SDR platforms: USRP B210 and RTL-SDR
-- RFSoC ZCU216
-- CASPER Toolflow
-
-### Programming & Scientific Computing
-
-- Python
-- NumPy
-- SciPy
-- Matplotlib
-- Astropy
-- Jupyter Notebooks
-- Scientific data analysis and visualization
-
-### Statistical & Data Analysis
-
-- Bayesian inference
-- Markov Chain Monte Carlo (MCMC)
-- Model fitting
-- Astronomical data analysis
-
-### Radio Astronomy Software
-
-- GNU Radio
-- CASA *(basic familiarity)*
-- Spectral-line data processing
-- Interferometric data processing
-
-### Simulation & Engineering Tools
-
-- CST Studio Suite
-- Ansys HFSS
-- MATLAB
-- Simulink
-
-### Research Computing
-
-- Linux (Ubuntu)
-- Windows
-- Git
-- LaTeX
-- Scientific computing workflows
-
----
-
-## Publications & Presentations
-
-### IEEE SPACE 2026
-
-**RAISE: A Low-Frequency Space-Based Payload for Solar Radio and RFI Measurements on the SMiLE Mission**
-
-*Accepted Oral Presentation*
-
-### National Space Science Symposium (NSSS) 2026
-
-**A Low-Cost Instructional Interferometer Using DIY Horn Antenna**
-
-*Poster Presentation*
-
----
+I am interested in doctoral research that connects observational radio astronomy with the instruments and computational methods used to study astronomical sources.
 
 ## Featured Projects
 
-- Instructional Radio Interferometer *(In Progress)*
-- GNU Radio Signal Processing
-- RFSoC (ZCU216) Development
-- Radio Astronomy Data Analysis
+### [Instructional Radio Interferometer](https://github.com/sangeetha-andavan/instructional-radio-interferometer)
+Development of a low-cost, two-element instructional interferometer operating near the 21-cm neutral hydrogen line. The project brings together horn antennas, RF front-end components, SDR receivers, synchronization, GNU Radio processing, and visibility analysis.
+
+### [Spectrum Analyzer Python Tools](https://github.com/sangeetha-andavan/spectrum-analyzer-python-tools)
+Python tools for automating RF spectrum measurements using PyVISA/SCPI, saving traces to CSV, comparing measurements, and generating analysis plots.
+
+### Radio Astronomy Literature Toolkit
+A developing collection of Python notebooks for exploring radio astronomy concepts and reproducing calculations or visualizations from research literature. The repository is currently private and is not yet available as a public project.
+
+## Research Interests
+
+- Radio interferometry and visibility analysis
+- Observational radio astronomy and 21-cm spectral-line studies
+- Radio instrumentation and RF measurements
+- SDR-based digital signal processing and correlators
+- Scientific Python and reproducible data analysis
+
+## Technical Skills
+
+- **Programming and analysis:** Python, NumPy, SciPy, Matplotlib, pandas, Jupyter
+- **Radio systems:** USRP B210, RTL-SDR, RF front-end measurements, spectrum analyzers, VNA/S-parameter measurements
+- **Signal processing:** GNU Radio, cross-correlation, FFT-based analysis, visibility analysis
+- **Simulation and engineering:** CST Studio Suite, Ansys HFSS, MATLAB/Simulink
+- **Research tools:** Linux, Git, LaTeX; RFSoC ZCU216 and CASPER toolflow experience
+
+## Publications and Presentations
+
+- **IEEE SPACE 2026** — “RAISE: A Low-Frequency Space-Based Payload for Solar Radio and RFI Measurements on the SMiLE Mission.” Accepted oral presentation.
+- **National Space Science Symposium (NSSS) 2026** — “A Low-Cost Instructional Interferometer Using DIY Horn Antenna.” Poster presentation.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/sangeetha-andavan-ab867b177/)
+- [ORCID](https://orcid.org/0009-0008-7285-2989)
 
 ---
 
-## 🌐 Connect with Me
-
-- **LinkedIn:** https://www.linkedin.com/in/sangeetha-andavan-ab867b177/
-- **ORCID:** https://orcid.org/0009-0008-7285-2989
-
----
-*"The universe is best understood by building the instruments that reveal it."*
+*I aim to build reproducible tools and instruments that help turn radio measurements into astronomical insight.*
