@@ -1,5 +1,5 @@
 # Sangeetha Andavan
-### Radio Astronomy · Interferometry · Scientific Computing
+### Radio Astronomy · Interferometry · Radio Instrumentation · Signal Processing
 
 I am a Project Assistant in the Department of Astronomy, Astrophysics and Space Engineering (DAASE) at the Indian Institute of Technology Indore. My work spans radio astronomy instrumentation, interferometric observations, SDR-based signal processing, and Python tools for RF measurement and scientific data analysis.
 
